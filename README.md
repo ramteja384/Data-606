@@ -1,4 +1,4 @@
-# Analyzing-Individual-Preparedness-for-Effective-Disaster-Response-Strategies
+# Network Intrusion Detection System
 This repository explores Cybersecurity threats pose significant risks to organizations and individuals worldwide. With cyberattacks becoming increasingly complex and sophisticated, there is an urgent need to develop robust methods for detection and mitigation. To meet these challenges, a network intrusion detection technique is proposed, utilizing the collective power of multiple machine learning algorithms.
 
 ## Project Goals
