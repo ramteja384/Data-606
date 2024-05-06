@@ -42,7 +42,6 @@ Visualizations like charts and graphs are included to illustrate the findings.
 
 - University of New South Wales, Canberra for providing the dataset.
 - Contributors who have participated in data collection and processing.
-- The community for their continuous support and feedback.
 
 ## Contact
 
