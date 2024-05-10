@@ -6,6 +6,25 @@ This repository explores Cybersecurity threats pose significant risks to organi
 2. Develop machine learning models to predict cyber-attacks based on various networking features.
 3. This research is expected to contribute to the advancement of cybersecurity by providing insights into cyber attack behaviors and the development of effective threat detection models.
 
+## Target Selection
+In our data, we have label column which indicates whether attack has occured or not(1 for attack, and 0 for no attack). And we also have attack_cat column, which shows types of attacks. In our problem, we want to go with attack_cat column has our target variable. Initially, attack_cat has following types of attack :
+1. Normal
+2. Fuzzers
+3. Analysis
+4. Backdoors
+5. DoS (Denial of Service) 
+6. Exploits
+7. Generic
+8. Reconnaissance
+9. Shellcode
+10. Worms
+
+In target variable "attack_cat", we are removing all instances corresponding to these categories from both the training and testing datasets. There are relatively fewer instances of the following attack categories:
+Analysis
+Backdoor
+Shellcode
+Worms
+
 ## Research Questions
 1. How can machine learning algorithms be applied to analyze the UNSW-NB15 dataset and detect different types of cyber-attacks.
 2. What are the key features and patterns indicative of malicious activities in network traffic data.
