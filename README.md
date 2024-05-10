@@ -20,10 +20,10 @@ In our data, we have label column which indicates whether attack has occured or 
 10. Worms
 
 In target variable "attack_cat", we are removing all instances corresponding to these categories from both the training and testing datasets. There are relatively fewer instances of the following attack categories:
-Analysis
-Backdoor
-Shellcode
-Worms
+1. Analysis
+2. Backdoor
+3. Shellcode
+4. Worms
 
 ## Research Questions
 1. How can machine learning algorithms be applied to analyze the UNSW-NB15 dataset and detect different types of cyber-attacks.
